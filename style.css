@@ -13,11 +13,12 @@ body{
 h1{
     text-align: center;
     color: rgb(226, 213, 24);
+    margin-top: 2%;
 }
 
 li{
     text-align: center;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 a{
@@ -26,9 +27,11 @@ a{
 }
 
 a:hover{
-    color: #c518e7;
+    color: #e7e418;
     font-weight: bold;
 }
 
-
+h1:hover{
+    color: blueviolet;
+}
 
